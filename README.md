@@ -14,7 +14,7 @@ Apartment Name, # Bedrooms, # Bathrooms, Floorplan Name, Rent (show formatted cu
 
 ## Getting Started
 
-To run on Mac start a server in your CLI with the following code:
+To run on Mac start a server in the project directory in your CLI with the following code:
 
 ```
 php -S localhost:4000 
