@@ -28,6 +28,10 @@ php -S localhost:4000
 
 index.html runs the index.js script which makes an AJAX call to curl_request.php.  curl_request.php first checks to see if a cache of data exists and is at most 10 minutes old and if not queries an API saving the contents to a .txt file for serving
 
+## Live Example
+
+A live example of this can be found on my personal site at http://www.markaabel.com/creativesoldier
+
 ## Authors
 
 * **Mark Abel** 
