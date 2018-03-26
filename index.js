@@ -11,7 +11,6 @@ window.addEventListener("load", () => {
   xhr.onload = function() {
     if (xhr.status === 200) {
       let response = xhr.response;
-      console.log(response);
       table.innerHTML += `<tr class="table__headers">
                             <th>Apartment Name</th>
                             <th># Bedrooms</th>
