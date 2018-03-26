@@ -1,9 +1,5 @@
 # Creative Soldier Coding Challenge
 
-One Paragraph of project description goes here
-
-## Getting Started
-
 ### Backend:
 
 Please create a simple PHP script that fetches apartment availability data from http://rentcafe.com/rentcafeapi.aspx?requestType=apartmentavailability&APIToken=NDY5OTI%3d-XDY6KCjhwhg%3d&propertyCode=p0155985
@@ -16,7 +12,7 @@ Please create the HTML, CSS and JS code that makes an AJAX call to your PHP scri
 
 Apartment Name, # Bedrooms, # Bathrooms, Floorplan Name, Rent (show formatted currency as min-max range), Apply Online (link)
 
-### To start
+## Getting Started
 
 To run on Mac start a server in your CLI with the following code:
 
